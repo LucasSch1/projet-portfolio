@@ -1,0 +1,36 @@
+body{
+    background-color: #061a40;
+}
+
+/* Navbar */
+.navbar-nav{
+    color: white;
+}
+.navbar{
+    background-color:#003559;
+    align-items: center;
+}
+.col-md-4{
+    text-align: right;
+}
+
+/* FIN Navbar */
+
+
+/*Accueil */
+
+/* Image profil */
+.img-profil{
+    width: 400px;
+    border-radius: 50%;
+}
+
+#conteneur-profil{
+    background-color: #b9d6f2 ;
+    box-shadow: 20px 10px 10px #030a16;
+    border-radius: 36px;
+}
+
+label{
+    color: white;
+}
