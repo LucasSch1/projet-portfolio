@@ -1,12 +1,12 @@
 <!-- On inclut la navbar  -->
-<?php include('elements/header.php'); ?>
+<?php include('./elements/header.php'); ?>
 <!DOCTYPE html>
 <html lang="en">
 <body>
     <div class="container-fluid pt-5 h-75 d-flex align-items-center justify-content-center">
         <div class="row d-flex align-items-center justify-content-center w-75 h-75" id="conteneur-profil">
             <div class="col-md-5 text-white text-center">
-                <img src="/images/Photo_moi_pro.jpg" class="img-profil">
+                <img src="./images/Photo_moi_pro.jpg" class="img-profil">
             </div>
             <div class="col-md-6 text-black text-center fs-2 align-bottom">
                 <p class="fw-bold">Lucas Schnelzauer</p>
